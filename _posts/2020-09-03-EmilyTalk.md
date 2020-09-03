@@ -8,10 +8,10 @@ header:
 excerpt: "Join Emily Ackerman for a talk on disability and tech!"
 
 ---
-*July 1st, 2020*
+*September 29th, 2020*
 
 Kicking off the STEM and Society Lecture series is our very own Emily Ackerman! Emily is currently pursuing a Ph.D. in Chemical Engineering and will be discussing the intersection of tech and disability. Register for the talk with the Zoom link below. See you there!
 
-Please check back for the Zoom link/registration.
+Register Here: Please check back for the Zoom link/registration.
 
-![Lecture1_EmilyAckerman_Flyer](/assets/img/posts/StemSoc_Flyer_Alt.png){: .align-center}
+![Lecture1_EmilyAckerman_Flyer](/assets/img/lectures/Lecture1_EmilyAckerman.png){: .align-center}
