@@ -1,11 +1,11 @@
 var store = [{
-        "title": "WeHaul Healthcare wins 2nd place at IBM BlueHack!",
-        "excerpt":"November 1st, 2019 During the 2019 IBM BlueHack hackathon, our team of ChemE PhD students from the Wilmer Lab (Myself and Kutay), Little Lab (Andrea and Ashlee), and Li Lab (Aigerim) beat out 19 other teams for a second place finish with our idea, WeHaul Healthcare. The hackathon was a...","categories": ["posts"],
+        "title": "Announcement!",
+        "excerpt":"Septemeber 2nd, 2020 Hello Everyone! The Graduate Student Organizing Committee is excited to announce the start of our STEM and Society Lecture Series, which will handle topics related to the intersection between our research and the world around us. We believe it is our mission to discuss openly and freely...","categories": ["posts"],
         "tags": [],
-        "url": "http://localhost:4000/posts/ibm-bluehack/",
-        "teaser":"http://localhost:4000/assets/img/posts/WeHaul_Team_teaser.png"},{
-        "title": "Winner of the PQI travel award",
-        "excerpt":"April 17th, 2020   Held in April, amidst the COVID-19 pandemic, I participated in and won the (online) 2020 poster competition, recieving the 2020 Pittsburgh Quantum Institute travel award. I really enjoyed seeing everyone’s unique and impressive projects. Check out my winning poster below!     ","categories": ["posts"],
+        "url": "http://localhost:4000/posts/LectureSeries/",
+        "teaser":"http://localhost:4000/assets/img/posts/announcement.png"},{
+        "title": "Lecture #1",
+        "excerpt":"July 1st, 2020 Kicking off the STEM and Society Lecture series is our very own Emily Ackerman! Emily is currently pursuing a Ph.D. in Chemical Engineering and will be discussing the intersection of tech and disability. Register for the talk with the Zoom link below. See you there! Please check...","categories": ["posts"],
         "tags": [],
-        "url": "http://localhost:4000/posts/brian-pqi/",
-        "teaser":"http://localhost:4000/assets/img/posts/pqi_poster_2020_teaser.jpg"}]
+        "url": "http://localhost:4000/posts/EmilyTalk/",
+        "teaser":"http://localhost:4000/assets/img/posts/lecture.png"}]

@@ -1,30 +1,31 @@
 ---
 layout: splash
-title:  "Publications"
-permalink: /publications/
-date:   2020-06-20
+title:  "Lectures"
+permalink: /lectures/
+date:   2020-09-03
 categories: pages
 
-2020_day_co2_sensing:
-  - image_path: /assets/img/publications/2020_day_co2_sensing.png
-    alt: "2020_day_co2_sensing"
-    title: "Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing"
-    excerpt: "**41.** [B. A. Day and C. E. Wilmer, Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing. *Sensors*, 20, 924, **(2020)**.](https://www.mdpi.com/1424-8220/20/3/924)"
+Lecture2_KimGarrett:
+  - image_path: /assets/img/lectures/Lecture2_KimGarrett.png
+    alt: "Lecture2_KimGarrett"
+    title: "The Toxicology of Tear Gas"
+    excerpt: "<br>Kim Garrett<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Public Health<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>October 21st, 2020"
+Lecture1_EmilyAckerman:
+  - image_path: /assets/img/lectures/Lecture1_EmilyAckerman.png
+    alt: "Lecture1_EmilyAckerman"
+    title: "The Accessibility Gap for Tech Users and Developers"
+    excerpt: "<br>Emily E. Ackerman<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Chemical Engineering<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>Septmeber 29th, 2020"
 
 ---
 <p> </p>
 
-Publications
+Lectures
 ============
+- [Upcoming Lectures](#upcoming-lectures)
+- [Past Lectures](#past-lectures)
 
-<table style="width:100%">
-  <tr>
-    <th><a href="#2020" class="btn btn--primary">2020</a></th>
-  </tr>
-</table>
---------------------------------------------------------------
+## Upcoming Lectures
+{% include feature_row id="Lecture1_EmilyAckerman" type="left" %}
+{% include feature_row id="Lecture2_KimGarrett" type="left" %}
 
-2020
-----
-
-{% include feature_row id="2020_day_co2_sensing" type="left" %}
+## Past Lectures

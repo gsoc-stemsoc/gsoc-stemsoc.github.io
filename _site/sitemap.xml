@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/posts/ibm-bluehack/</loc>
-<lastmod>2019-11-01T00:00:00-04:00</lastmod>
+<loc>http://localhost:4000/posts/LectureSeries/</loc>
+<lastmod>2020-09-02T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/posts/brian-pqi/</loc>
-<lastmod>2020-04-17T00:00:00-04:00</lastmod>
+<loc>http://localhost:4000/posts/EmilyTalk/</loc>
+<lastmod>2020-09-03T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications/</loc>
+<loc>http://localhost:4000/lectures/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mission/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>

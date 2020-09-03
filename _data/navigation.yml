@@ -3,8 +3,12 @@ main:
   - title: "Home"
     url: /
   - title: "Mission"
+    url: /mission/
   - title: "Lectures"
-  - title: "Resources"
+    url: /lectures/
+  # - title: "Resources"
+  #   url: /resources/
   - title: "Contact"
+    url: /contact/
   - title: "."
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

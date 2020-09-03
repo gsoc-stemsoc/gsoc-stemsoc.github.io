@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GSCO - STEM Committee"
+title                    : "GSOC - STEM Committee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "STEM Committee"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "GSOC - STEM Committee"
-  avatar           : "assets/img/people/profile_pic.jpg"
-  bio              : "Working to form a grad union at Pitt!"
+  name             : "Union YES!"
+  avatar           : "assets/img/people/GSOC_logo_yellow.png"
+  bio              : ""
   location         : "Pittsburgh, PA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:22bday@gmail.com
+      url: mailto:gsoc.stemsoc@gmail.com
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
