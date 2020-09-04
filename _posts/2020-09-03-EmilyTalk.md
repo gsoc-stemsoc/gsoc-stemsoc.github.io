@@ -12,6 +12,6 @@ excerpt: "Join Emily Ackerman for a talk on disability and tech!"
 
 Kicking off the STEM and Society Lecture series is our very own Emily Ackerman! Emily is currently pursuing a Ph.D. in Chemical Engineering and will be discussing the intersection of tech and disability. Register for the talk with the Zoom link below. See you there!
 
-Register Here: Please check back for the Zoom link/registration.
+[Register Here!](https://pitt.zoom.us/meeting/register/tJMqdumvrTktGNBXGw0QrQVJ4dO7stfujLJJ)
 
 ![Lecture1_EmilyAckerman_Flyer](/assets/img/lectures/Lecture1_EmilyAckerman.png){: .align-center}
