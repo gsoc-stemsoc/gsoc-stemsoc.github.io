@@ -12,5 +12,5 @@ main:
     url: https://pitt.zoom.us/meeting/register/tJMqdumvrTktGNBXGw0QrQVJ4dO7stfujLJJ
   - title: "Contact"
     url: /contact/
-  - title: "."
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "."
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
