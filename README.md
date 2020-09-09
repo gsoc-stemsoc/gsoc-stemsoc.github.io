@@ -1,1 +1,1 @@
-Website for STEM & Society Lecture Series!  
+Website for STEM & Society Lecture Series!
