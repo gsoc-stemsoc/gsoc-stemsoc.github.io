@@ -8,6 +8,8 @@ main:
     url: /lectures/
   # - title: "Resources"
   #   url: /resources/
+  - title: "Register"
+    url: https://pitt.zoom.us/meeting/register/tJMqdumvrTktGNBXGw0QrQVJ4dO7stfujLJJ
   - title: "Contact"
     url: /contact/
   - title: "."

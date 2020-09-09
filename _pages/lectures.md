@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:  "Lectures"
+title:  "Lectures - Regster Here"
 permalink: /lectures/
 date:   2020-09-03
 categories: pages
@@ -23,6 +23,7 @@ Lecture1_EmilyAckerman:
 
 <a name="top"></a>
 # Lectures
+To register for a talk, please click the "Register" tab above, or by following the "Learn more" link near the respective lecture.
 <table style="width:100%">
   <tr>
     <th><a href="#ul" class="btn btn--primary">Upcoming Lectures</a></th>
