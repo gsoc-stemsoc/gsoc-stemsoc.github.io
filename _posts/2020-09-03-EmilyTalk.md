@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Lecture #1"
+title:  "<center>#1 - The Accessibility Gap for Tech Users and Developers</center>"
 date:   2020-09-03
 categories: posts
 header:
