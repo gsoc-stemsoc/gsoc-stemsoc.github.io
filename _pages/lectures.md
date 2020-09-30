@@ -2,17 +2,32 @@
 layout: splash
 title:  "Lectures - Regster Here"
 permalink: /lectures/
-date:   2020-09-03
+date:   2020-09-30
 categories: pages
 
-Lecture2_KimGarrett:
-  - image_path: /assets/img/lectures/Lecture2_KimGarrett_TOC.png
+Lecture4_AbhishekViswanathan:
+  - image_path: /assets/img/lectures/L4_TOC.png
     alt: "Lecture2_KimGarrett"
     title: "The Toxicology of Tear Gas"
     permalink: "/posts/EmilyTalk/"
     excerpt: "Kim Garrett<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Public Health<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>October 21st, 2020"
+    url: "/posts/3AbhishekTalk/"
+Lecture3_JorgeJiminez:
+  - image_path: /assets/img/lectures/L3_TOC.png
+    alt: "Lecture2_KimGarrett"
+    title: "The Toxicology of Tear Gas"
+    permalink: "/posts/EmilyTalk/"
+    excerpt: "Kim Garrett<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Public Health<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>October 21st, 2020"
+    url: "/posts/2JorgeTalk/"
+Lecture2_KimGarrett:
+  - image_path: /assets/img/lectures/L2_TOC.png
+    alt: "Lecture2_KimGarrett"
+    title: "The Toxicology of Tear Gas"
+    permalink: "/posts/EmilyTalk/"
+    excerpt: "Kim Garrett<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Public Health<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>October 21st, 2020"
+    url: "/posts/1KimTalk/"
 Lecture1_EmilyAckerman:
-  - image_path: /assets/img/lectures/Lecture1_EmilyAckerman_TOC.png
+  - image_path: /assets/img/lectures/L1_TOC.png
     alt: "Lecture1_EmilyAckerman"
     title: "The Accessibility Gap for Tech Users and Developers"
     excerpt: "Emily E. Ackerman<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Chemical Engineering<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>Septmeber 29th, 2020"
@@ -33,12 +48,13 @@ To register for a talk, please click the "Register" tab above, or by following t
 
 <a name="ul"></a>
 ## Upcoming Lectures
-{% include feature_row id="Lecture1_EmilyAckerman" type="left" %}
 {% include feature_row id="Lecture2_KimGarrett" type="left" %}
+{% include feature_row id="Lecture3_JorgeJiminez" type="left" %}
+{% include feature_row id="Lecture4_AbhishekViswanathan" type="left" %}
 
 <a name="pl"></a>
 ## Past Lectures
-
+{% include feature_row id="Lecture1_EmilyAckerman" type="left" %}
 
 <table style="width:100%">
   <tr>

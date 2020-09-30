@@ -4,8 +4,28 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/posts/LectureSeries/",
         "teaser":"http://localhost:4000/assets/img/posts/announcement.png"},{
-        "title": "<center>#1 - The Accessibility Gap for Tech Users and Developers</center>",
-        "excerpt":"September 29th, 2020 Kicking off the STEM and Society Lecture series is our very own Emily Ackerman! Emily is currently pursuing a Ph.D. in Chemical Engineering and will be discussing the intersection of tech and disability. Register for the talk with the Zoom link below. See you there! Register Here!...","categories": ["posts"],
+        "title": "(1) The Accessibility and Tech Cycle",
+        "excerpt":"September 29th, 2020   Kicking off the STEM and Society Lecture series is our very own Emily Ackerman! Emily is currently pursuing a Ph.D. in Chemical Engineering and will be discussing the intersection of tech and disability.   Download the slides here.   View the talk here.     ","categories": ["posts"],
         "tags": [],
         "url": "http://localhost:4000/posts/EmilyTalk/",
+        "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
+        "title": "Youtube channel for past talks.",
+        "excerpt":"September 29th, 2020   Missed a talk you really wanted to see? No worries! We’ve officially created a youtube channel where we will be posting recordings of all the lectures. Check out the link below!   Youtube  ","categories": ["posts"],
+        "tags": [],
+        "url": "http://localhost:4000/posts/Youtube/",
+        "teaser":"http://localhost:4000/assets/img/posts/announcement.png"},{
+        "title": "(2) Tear Gas is a Chemical Weapon",
+        "excerpt":"October 19th, 2020 The second talk of our STEM and Society Lecture series will be given by Kimberly Garrett, a Ph.D. candidate in the Graduate School of Public Health. Kim will be discussing tear gas and its (unethical) use as a crowd-control chemical weapon. Register for the talk with the...","categories": ["posts"],
+        "tags": [],
+        "url": "http://localhost:4000/posts/1KimTalk/",
+        "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
+        "title": "(3) Teaching Societal Impact in the STEM Classroom",
+        "excerpt":"November: Exact Date TBD The third talk will be given by Jorge Jiminez who is a Ph.D. candidate in the Department of Bioengineering. Jorge will be discussing ways to teach important societal concerns in STEM classrooms which have typically avoided discussing the relationship between STEM and society. Please check back...","categories": ["posts"],
+        "tags": [],
+        "url": "http://localhost:4000/posts/2JorgeTalk/",
+        "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
+        "title": "(4) Smashing Boarders & Building Bridges",
+        "excerpt":"December: Exact Date TBD The fourth talk will be given by Abhishek Viswanathan, a graduate student in the School of Computing and Information. He will be discussing how climate changes has impacted communities around the globe as well as ways to engange communities in the effort for environmental justice. Please...","categories": ["posts"],
+        "tags": [],
+        "url": "http://localhost:4000/posts/3AbhishekTalk/",
         "teaser":"http://localhost:4000/assets/img/posts/lecture.png"}]
