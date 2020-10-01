@@ -21,7 +21,7 @@ Lecture2_KimGarrett:
   - image_path: /assets/img/lectures/L2_TOC.png
     alt: "Lecture2_KimGarrett"
     title: "Tear Gas is a Chemical Weapon: The Toxicology of State Violence"
-    excerpt: "Kim Garrett<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Public Health<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>October 21st, 2020"
+    excerpt: "Kim Garrett<br>&nbsp;&nbsp;&nbsp;&nbsp;Graduate Student Researcher<br>&nbsp;&nbsp;&nbsp;&nbsp;Public Health<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>October 21st, 2020"
     url: "/posts/1KimTalk/"
 Lecture1_EmilyAckerman:
   - image_path: /assets/img/lectures/L1_TOC.png
