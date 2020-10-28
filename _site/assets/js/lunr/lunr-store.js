@@ -15,7 +15,7 @@ var store = [{
         "url": "http://localhost:4000/posts/Youtube/",
         "teaser":"http://localhost:4000/assets/img/posts/announcement.png"},{
         "title": "(2) Tear Gas is a Chemical Weapon",
-        "excerpt":"October 19th, 2020 The second talk of our STEM and Society Lecture series will be given by Kimberly Garrett, a Ph.D. candidate in the Graduate School of Public Health. Kim will be discussing tear gas and its (unethical) use as a crowd-control chemical weapon. Register for the talk with the...","categories": ["posts"],
+        "excerpt":"October 21st, 2020 The second talk of our STEM and Society Lecture series will be given by Kimberly Garrett, a graduate student researcher in the Graduate School of Public Health. Kim will be discussing tear gas and its (unethical) use as a crowd-control chemical weapon. Download the slides here. View...","categories": ["posts"],
         "tags": [],
         "url": "http://localhost:4000/posts/1KimTalk/",
         "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
