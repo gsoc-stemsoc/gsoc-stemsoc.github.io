@@ -45,13 +45,13 @@ To register for a talk, please click the "Register" tab above, or by following t
 
 <a name="ul"></a>
 ## Upcoming Lectures
-{% include feature_row id="Lecture2_KimGarrett" type="left" %}
 {% include feature_row id="Lecture3_JorgeJiminez" type="left" %}
 {% include feature_row id="Lecture4_AbhishekViswanathan" type="left" %}
 
 <a name="pl"></a>
 ## Past Lectures
 {% include feature_row id="Lecture1_EmilyAckerman" type="left" %}
+{% include feature_row id="Lecture2_KimGarrett" type="left" %}
 
 <table style="width:100%">
   <tr>
