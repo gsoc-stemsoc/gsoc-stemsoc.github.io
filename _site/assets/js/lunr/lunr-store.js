@@ -20,7 +20,7 @@ var store = [{
         "url": "http://localhost:4000/posts/1KimTalk/",
         "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
         "title": "(3) Teaching Societal Impact in the STEM Classroom",
-        "excerpt":"November: Exact Date TBD The third talk will be given by Jorge Jiminez who is a Ph.D. candidate in the Department of Bioengineering. Jorge will be discussing ways to teach important societal concerns in STEM classrooms which have typically avoided discussing the relationship between STEM and society. Please check back...","categories": ["posts"],
+        "excerpt":"November 19th, 2020   The third talk will be given by Jorge Jimenez who is a Ph.D. candidate in the Department of Bioengineering. Jorge will be discussing ways to teach important societal concerns in STEM classrooms which have typically avoided discussing the relationship between STEM and society. Please register here!     ","categories": ["posts"],
         "tags": [],
         "url": "http://localhost:4000/posts/2JorgeTalk/",
         "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
