@@ -2,20 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-  - title: "P3 Art"
-    # url: /p3art/
-  - title: "."
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Mission"
+    url: /mission/
+  - title: "Lectures"
+    url: /lectures/
+  # - title: "Resources"
+  #   url: /resources/
+  - title: "Register"
+    url: https://pitt.zoom.us/meeting/register/tJYkceqorTMpGNUtJ7Yu0SDOrZwEcDz8bCfc
+  - title: "Contact"
+    url: /contact/
+  # - title: "."
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
