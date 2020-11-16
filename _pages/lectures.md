@@ -15,7 +15,7 @@ Lecture3_JorgeJiminez:
   - image_path: /assets/img/lectures/L3_TOC.png
     alt: "Lecture3_JorgeJiminez"
     title: "Teaching Societal Impact in the STEM Classroom"
-    excerpt: "Jorge Jiminez<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Bioengineering<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>November: Exact Date TBD"
+    excerpt: "Jorge Jiminez<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Bioengineering<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>November 19th, 2020"
     url: "/posts/2JorgeTalk/"
 Lecture2_KimGarrett:
   - image_path: /assets/img/lectures/L2_TOC.png
