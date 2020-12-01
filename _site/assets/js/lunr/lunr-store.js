@@ -20,12 +20,12 @@ var store = [{
         "url": "http://localhost:4000/posts/1KimTalk/",
         "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
         "title": "(3) Teaching Societal Impact in the STEM Classroom",
-        "excerpt":"November 19th, 2020   The third talk will be given by Jorge Jimenez who is a Ph.D. candidate in the Department of Bioengineering. Jorge will be discussing ways to teach important societal concerns in STEM classrooms which have typically avoided discussing the relationship between STEM and society. Please register here!     ","categories": ["posts"],
+        "excerpt":"November 19th, 2020 The third talk will be given by Jorge Jimenez who is a Ph.D. candidate in the Department of Bioengineering. Jorge will be discussing ways to teach important societal concerns in STEM classrooms which have typically avoided discussing the relationship between STEM and society. View the talk here....","categories": ["posts"],
         "tags": [],
         "url": "http://localhost:4000/posts/2JorgeTalk/",
         "teaser":"http://localhost:4000/assets/img/posts/lecture.png"},{
-        "title": "(4) Smashing Boarders & Building Bridges",
-        "excerpt":"December: Exact Date TBD The fourth talk will be given by Abhishek Viswanathan, a graduate student in the School of Computing and Information. He will be discussing how climate changes has impacted communities around the globe as well as ways to engange communities in the effort for environmental justice. Please...","categories": ["posts"],
+        "title": "(4) Breaking out of Silos in Scientific Research",
+        "excerpt":"December 14th, 2020 The fourth talk will be given by Abhishek Viswanathan, a graduate student in the School of Computing and Information, and Sinan Dogan, a graduate student in the Department of Anthropology. They will be discussing how climate changes has impacted communities around the globe as well as ways...","categories": ["posts"],
         "tags": [],
         "url": "http://localhost:4000/posts/3AbhishekTalk/",
         "teaser":"http://localhost:4000/assets/img/posts/lecture.png"}]

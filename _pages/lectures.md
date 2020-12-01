@@ -9,7 +9,7 @@ Lecture4_AbhishekViswanathan:
   - image_path: /assets/img/lectures/L4_TOC.png
     alt: "Lecture4_AbhishekViswanathan"
     title: "Smashing Borders & Building Bridges: Citizen Science, Environmental Justice, and Community Resiliance"
-    excerpt: "AbhishekViswanathan<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;School of Computing and Information<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>December: Exact Date TBD"
+    excerpt: "AbhishekViswanathan<br>&nbsp;&nbsp;&nbsp;&nbsp;PhD Candidate<br>&nbsp;&nbsp;&nbsp;&nbsp;School of Computing and Information<br>&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh<br><br>December 14th, 2020"
     url: "/posts/3AbhishekTalk/"
 Lecture3_JorgeJiminez:
   - image_path: /assets/img/lectures/L3_TOC.png
@@ -45,13 +45,13 @@ To register for a talk, please click the "Register" tab above, or by following t
 
 <a name="ul"></a>
 ## Upcoming Lectures
-{% include feature_row id="Lecture3_JorgeJiminez" type="left" %}
 {% include feature_row id="Lecture4_AbhishekViswanathan" type="left" %}
 
 <a name="pl"></a>
 ## Past Lectures
 {% include feature_row id="Lecture1_EmilyAckerman" type="left" %}
 {% include feature_row id="Lecture2_KimGarrett" type="left" %}
+{% include feature_row id="Lecture3_JorgeJiminez" type="left" %}
 
 <table style="width:100%">
   <tr>
