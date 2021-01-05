@@ -10,6 +10,10 @@ excerpt: "Join Abhishek and Sinan for a talk on environmental justice!"
 ---
 *December 14th, 2020*
 
-The fourth talk will be given by Abhishek Viswanathan, a graduate student in the School of Computing and Information, and Sinan Dogan, a graduate student in the Department of Anthropology. They will be discussing barriers to participation in science, and breaking out of departmental research silos within the university by going through their own attempts to link their respective research in air quality monitoring, citizen science, environmental justice, and localized knowledge production in the Pittsburgh area. [Please register here!](https://pitt.zoom.us/meeting/register/tJ0vf-6vqz8iHNeMum8M4znA_oO7X3YHYZvu)
+The fourth talk will be given by Abhishek Viswanathan, a graduate student in the School of Computing and Information, and Sinan Dogan, a graduate student in the Department of Anthropology. They will be discussing barriers to participation in science, and breaking out of departmental research silos within the university by going through their own attempts to link their respective research in air quality monitoring, citizen science, environmental justice, and localized knowledge production in the Pittsburgh area.
+
+[Download the slides here.](/assets/img/slides/L4_Slides.pdf)
+
+[View the talk here.](https://youtu.be/rAo-z2iy_gg)
 
 ![Lecture4_AbhishekViswanathan](/assets/img/lectures/Lecture4_AbhishekViswanathan.png){: .align-center}
